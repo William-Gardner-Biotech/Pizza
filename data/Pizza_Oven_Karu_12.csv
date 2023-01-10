@@ -1,0 +1,17 @@
+pizza_no,outside_temp,chimney_temp,middle_stone,middle_ext,turn,turn_interval,turn_success,burn,date,crust_thickness
+0,55,280,440,76,warm_up,,,,09Jan2023,
+0,55,110,460,99.5,final_warm,,,,10Jan2023,
+1,55,110,460,99.5,1,3,FALSE,TRUE,11Jan2023,thick
+1,55,110,460,99.5,2,3,TRUE,TRUE,12Jan2023,thick
+1,55,110,460,99.5,removal,3,TRUE,TRUE,13Jan2023,thick
+2,55,111,442,82,1,2:45,FALSE,TRUE,14Jan2023,thin
+2,55,111,442,82,2,2,FALSE,TRUE,15Jan2023,thin
+2,55,111,442,82,removal,0:45,TRUE,TRUE,16Jan2023,thin
+3,54,87,460,95,1,2:30,TRUE,FALSE,17Jan2023,thin
+3,54,87,460,95,2,2,TRUE,TRUE,18Jan2023,thin
+3,54,87,460,95,3,1,TRUE,FALSE,19Jan2023,thin
+3,54,87,460,95,removal,0:30,TRUE,FALSE,20Jan2023,thin
+4,54,101,577,91.1,1,2:30,TRUE,FALSE,21Jan2023,extra_thin
+4,54,101,577,91.1,2,1:15,TRUE,TRUE,22Jan2023,extra_thin
+4,54,101,577,91.1,3,1:15,TRUE,TRUE,23Jan2023,extra_thin
+4,54,101,577,91.1,removal,1:00,TRUE,TRUE,24Jan2023,extra_thin
